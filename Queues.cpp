@@ -81,5 +81,7 @@ public:
             cout << "Queue is empty\n";
             return;
         }
+
+        cout << "\n Element in the queue are...\n";
     }
 };
